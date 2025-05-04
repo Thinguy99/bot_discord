@@ -80,8 +80,3 @@ Protéger les clés API et les données sensibles (comme les tokens Discord) via
 
 - **Ajouter des fonctionnalités supplémentaires** : Le bot pourrait à l'avenir inclure des interactions avec d'autres plateformes ou API externes (par exemple, gestion des tâches, intégration d'un calendrier, etc.). 🌐
 - **Créer des sous-commandes** pour des tâches spécifiques comme l’analyse de données ou la gestion des tâches de projet. 🛠️
-
----
-
-
----
