@@ -1,0 +1,43 @@
+{
+  "projet": "DS2E Bot Discord",
+  "groupe": 4,
+  "membres": [
+    "qtnb_",
+    "noah.viralle",
+    "mariep67",
+    "ximaroz",
+    "erletae"
+  ],
+  "fichiers": [
+    {
+      "nom": "README",
+      "chemin": "README_grp4.md",
+      "contributeur": "qtnb_"
+    },
+    {
+      "nom": "CV Parser Mistral Discord",
+      "chemin": "CV_Parser_Mistral_Discord.py",
+      "contributeur": "noah.viralle"
+    },
+    {
+      "nom": "Gemini CV parser",
+      "chemin": "Gemini_CV_parser.py",
+      "contributeur": "mariep67"
+    },
+    {
+      "nom": "CV fictif (PDF)",
+      "chemin": "Annexes/CV_Fictif.pdf",
+      "contributeur": "ximaroz"
+    },
+    {
+      "nom": "Résultat JSON",
+      "chemin": "Annexes/CV_Fictif_Resultat.json",
+      "contributeur": "ximaroz"
+    },
+    {
+      "nom": "Exemple JSON",
+      "chemin": "example.json",
+      "contributeur": "erletae"
+    }
+  ]
+}
