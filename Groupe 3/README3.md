@@ -1,16 +1,15 @@
 ## 📌 Sommaire
 
-- [Partie I : Webscrapping  des offres d'alternance.](#partie-i--webscrapping--des-offres-dalternance)
+- [Partie I : Webscrapping des offres d'alternance](#partie-i--webscrapping--des-offres-dalternance)
   - [But](#but-)
-  - [✅ Prérequis](#️-prérequis)
-  - [✅  Exécution du script.](#️--exécution-du-script)
+  - [Prérequis](#-prérequis)
+  - [Exécution du script](#-exécution-du-script)
   - [Limites](#limites)
-- [Partie 2 :  Webscrapping des offres de stage](#partie-2--webscrapping-des-offres-de-stage)
+- [Partie 2 : Webscrapping des offres de stage](#partie-2--webscrapping-des-offres-de-stage)
   - [Introduction](#introduction)
   - [1. Webscraping des stages sur Indeed](#1-webscraping-des-stages-sur-indeed)
   - [2. Webscraping via Google Jobs](#2-webscraping-des-stages-via-google-jobs)
   - [3. Optimisation et perspectives](#3-optimisation-et-perspectives)
-
 
 
 # Partie I : Webscrapping  des offres d'alternance. 
