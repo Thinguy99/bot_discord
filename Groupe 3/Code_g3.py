@@ -35,7 +35,9 @@ def scrape_job_listings(search_params):
         return jobs
     except Exception as e:
         logging.error(f"Error during job scraping: {str(e)}")
+        print("❌ Une erreur est survenue pendant le scraping. Consultez le fichier de log pour plus de détails.")
         raise
+
 
 def clean_text_field(text):
     """Basic text cleaning for all string fields"""
