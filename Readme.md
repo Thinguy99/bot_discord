@@ -30,7 +30,7 @@
 
 ## 🚀 Présentation du projet
 
-JobHunterAI est un bot Discord académique développé dans le cadre du Master 1 DS2E (Data Science et Environnement Économique) à l'Université de Strasbourg. Ce projet innovant vise à faciliter le processus de recherche d'emploi et d'alternance pour les étudiants en automatisant plusieurs étapes clés:
+JobHunterAI est un bot Discord académique développé dans le cadre du Master 1 DS2E (Data science pour l'économie et l'entreprise du futur) à l'Université de Strasbourg. Ce projet innovant vise à faciliter le processus de recherche d'emploi et d'alternance pour les étudiants en automatisant plusieurs étapes clés:
 
 - Recherche d'offres pertinentes en ligne
 - Analyse de CV au format PDF
