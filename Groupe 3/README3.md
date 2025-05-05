@@ -1,7 +1,7 @@
 ## 📌 Sommaire
 
 - [Partie I : Webscrapping des offres d'alternance](#partie-i--webscrapping--des-offres-dalternance)
-  - [But](#but-)
+  - [But](#but)
   - [Prérequis](#-prérequis)
   - [Exécution du script](#-exécution-du-script)
   - [Limites](#limites)
