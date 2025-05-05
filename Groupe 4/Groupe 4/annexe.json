@@ -1,12 +1,13 @@
 {
   "projet": "DS2E Bot Discord",
-  "groupe": 4,
+  "groupe": 6,
   "membres": [
     "qtnb_",
     "noah.viralle",
     "mariep67",
-    "ximaroz",
-    "erletae"
+    "arnaudkdbtr",
+    "erletae",
+    "lvifv",
   ],
   "fichiers": [
     {
@@ -27,12 +28,12 @@
     {
       "nom": "CV fictif (PDF)",
       "chemin": "Annexes/CV_Fictif.pdf",
-      "contributeur": "ximaroz"
+      "contributeur": "lvifv"
     },
     {
       "nom": "Résultat JSON",
       "chemin": "Annexes/CV_Fictif_Resultat.json",
-      "contributeur": "ximaroz"
+      "contributeur": "arnaudkdbtr"
     },
     {
       "nom": "Exemple JSON",
