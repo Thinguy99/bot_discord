@@ -3,7 +3,7 @@
 - [Partie I : Webscrapping des offres d'alternance](#partie-i--webscrapping--des-offres-dalternance)
   - [But](#but-)
   - [Prérequis](#-prérequis)
-  - [Exécution du script](#-exécution-du-script)
+  - [Exécution du script](#--exécution-du-script)
   - [Limites](#limites)
 - [Partie 2 : Webscrapping des offres de stage](#partie-2--webscrapping-des-offres-de-stage)
   - [Introduction](#introduction)
