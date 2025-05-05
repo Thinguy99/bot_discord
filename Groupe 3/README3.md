@@ -1,6 +1,6 @@
 ## 📌 Sommaire
 
-- [Partie I : Webscraping des offres d'alternance](#partie-i--webscraping--des-offres-dalternance)
+- [Partie 1 : Webscraping des offres d'alternance](#partie-1--webscraping--des-offres-dalternance)
   - [But](#but-)
   - [Prérequis](#-prérequis)
   - [Exécution du script](#--exécution-du-script)
@@ -12,7 +12,7 @@
   - [3. Optimisation et perspectives](#3-optimisation-et-perspectives)
 
 
-# Partie I : Webscraping  des offres d'alternance. 
+# Partie 1 : Webscraping  des offres d'alternance. 
 
 ## But : 
 Ce script permet de collecter, nettoyer, analyser et sauvegarder des offres d'emploi en **alternance** dans le domaine de la Data Science (et métiers connexes), publiées sur Indeed France à l’aide de la bibliothèque python-jobspy.
@@ -42,17 +42,18 @@ Localisations les plus fréquentes
 Types de contrat
 Plage de dates de publication
 
-💾 Sauvegarde des résultats aux formats :
+💾 Formats de sauvegarde :
 
-.csv
-.json
+- **CSV** : fichier tabulaire classique (`.csv`)  
+- **JSON** : fichier structuré pour usage API ou traitement (`.json`)  
+- **Python** : fichier `.py` contenant une variable `job_data = [...]` avec les données sous forme de dictionnaires
 
-.py (fichier Python contenant une liste de dictionnaires)
+
 ## Limites
 Les données ne concernent que la France, mais pour les stages nous avons ouvert à l'étranger. En effet, juridiquement, et financièrement, il n'est pas possible de faire co-financer son alternance en dehors de la France ! 
 Mais pour les stages...oui ! 
 
-Nos sources sont donc basés sur le Github de python-job, que nous remercions énormément ! 
+Nos sources sont donc basées sur le Github de python-job, que nous remercions énormément ! 
 
 # Partie 2 : Webscraping des offres de stage
 
