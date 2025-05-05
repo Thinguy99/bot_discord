@@ -54,7 +54,7 @@ Mais pour les stages...oui !
 
 Nos sources sont donc basés sur le Github de python-job, que nous remercions énormément ! 
 
-# Partie 2 :  Webscrapping des offres de stage
+# Partie 2 : Webscrapping des offres de stage
 
 ## Introduction
 
