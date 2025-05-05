@@ -15,7 +15,7 @@
 
 - [Présentation du projet](#-présentation-du-projet)
 - [Fonctionnalités principales](#-fonctionnalités-principales)
-- [🏗️ Architecture du projet](#🏗️-architecture-du-projet)
+- [Architecture du projet](#---architecture-du-projet)
 - [Installation et configuration](#-installation-et-configuration)
 - [Guide d'utilisation](#-guide-dutilisation)
   - [Rechercher des offres d'emploi (`/scrape`)](#rechercher-des-offres-demploi-scrape)
@@ -23,7 +23,7 @@
   - [Comparer le CV avec une offre (`/comparer_cv_offre`)](#comparer-le-cv-avec-une-offre-comparer_cv_offre)
   - [Générer une lettre de motivation (`/generer_lettre`)](#générer-une-lettre-de-motivation-generer_lettre)
 - [Captures d'écran](#-captures-décran)
-- [🛠️ Choix techniques et bonnes pratiques](#🛠️-choix-techniques-et-bonnes-pratiques)
+- [Choix techniques et bonnes pratiques](#---choix-techniques-et-bonnes-pratiques)
 - [Équipe et contributions](#-équipe-et-contributions)
 - [Perspectives d'évolution](#-perspectives-dévolution)
 - [Licence](#-licence)
