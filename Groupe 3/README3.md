@@ -4,7 +4,7 @@ Auteurs : Grégoire Fuchs
 Eelai
 Vasile
 Laur
-Saikin
+Sayqin
 Groupe de 5 personnes actives. 
 
 
