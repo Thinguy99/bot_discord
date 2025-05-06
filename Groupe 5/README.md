@@ -30,8 +30,9 @@ Le fichier final respecte les éléments suivants :
 Ce fichier est enregistré localement, prêt à être transmis à un recruteur.
 
 ## ⚙️ Prérequis :
-Python ≥ 3.10 
-Clé API Google Gemini 
+* Python ≥ 3.10 
+
+* Clé API Google Gemini 
 
 ```python 
 # imports Python : 
