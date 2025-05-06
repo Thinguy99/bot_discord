@@ -32,8 +32,18 @@ Ce fichier est enregistré localement, prêt à être transmis à un recruteur.
 ## ⚙️ Prérequis :
 * Python ≥ 3.10 
 
-* Clé API Google Gemini 
+* Clé API Google Gemini
+  
+```python 
+# imports Python : 
 
+prompts.py
+import requests
+
+main.py
+import requests
+from docx import Document
+```
 
 ## Auteurs :
 
