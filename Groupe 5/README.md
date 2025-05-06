@@ -34,16 +34,7 @@ Ce fichier est enregistré localement, prêt à être transmis à un recruteur.
 
 * Clé API Google Gemini 
 
-```python 
-# imports Python : 
 
-prompts.py
-import requests
-
-main.py
-import requests
-from docx import Document
-```
 ## Auteurs :
 
 Aymane AIBICHI,
