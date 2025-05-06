@@ -3,7 +3,7 @@
 Auteurs : Grégoire Fuchs 
 Eelai
 Vasile
-Laur
+Laurentiu
 Sayqin
 Groupe de 5 personnes actives. 
 
